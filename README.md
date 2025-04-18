@@ -74,21 +74,9 @@ Type a prompt and watch Gemini generate a response!
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here if you have UI/UX visuals_
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Credits
 
 - [Google Generative Language API](https://ai.google.dev/)
-- Built by [Your Name](https://github.com/your-username)
+- Built by [Gaurav Katare](https://github.com/GGcodes2)
 
 ---
